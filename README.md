@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhinav-shinde-3a7432292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinav-shinde-3a7432292" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@2004abhishinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2004abhishinde" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhinav-shinde-3a7432292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinav-shinde-3a7432292" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/2004abhishinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@2004abhishinde" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/2004abhizhzv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="2004abhizhzv" height="30" width="40" /></a>
 </p>
 
