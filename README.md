@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Python, C++, Java, OOP, HTML, CSS, and a little bit of DSA**
+- 💬 Ask me about **Python, C++, Java, OOP, Full Stack Development and a little bit of DSA**
 
 - 📫 How to reach me **abhinavshinde775@gmail.com**
 
