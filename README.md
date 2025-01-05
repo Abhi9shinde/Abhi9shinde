@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi9shinde&label=Profile%20views&color=0e75b6&style=flat" alt="abhi9shinde" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **Time Complexity App**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development-Redux Toolkit**
 
 - 💬 Ask me about **Python, C++, Java, OOP, Full Stack Development and a little bit of DSA**
 
