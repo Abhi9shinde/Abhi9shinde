@@ -31,7 +31,7 @@
 	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,java,python,javascript&theme=dark"></td>
 </tr>
   <tr>
-	<td><strong>FullStack Development</strong></td>
+	<td><strong>FrontEnd Development</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind" ></td>
 </tr>
 <tr>
