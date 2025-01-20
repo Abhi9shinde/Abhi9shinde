@@ -82,8 +82,10 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi9shinde&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi9shinde&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhi9shinde&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi9shinde&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhi9shinde&theme=github_dark" />
+</div>
+<div align='center'>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhi9shinde&show_icons=true&bg_color=00000000" />
 </div>
 
 <br>
