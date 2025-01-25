@@ -44,7 +44,7 @@
 </tr>
 <tr>
 	<td><strong>Frameworks or Libraries</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind,react,sklearn,selenium&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind,react,redux,sklearn,selenium&theme=dark"></td>
 </tr>
 
 <tr>
