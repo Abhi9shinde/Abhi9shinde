@@ -49,7 +49,7 @@
 
 <tr>
 	<td><strong>Developer Tools and Platforms</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,anaconda,appwrite,eclipse,heroku,netlify,npm,postman&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,anaconda,appwrite,eclipse,heroku,netlify,npm,postman,firebase,gcp&theme=dark"></td>
 </tr>
 
 </table>
