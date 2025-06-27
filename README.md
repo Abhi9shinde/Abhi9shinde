@@ -28,11 +28,11 @@
 <table>
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,java,python,javascript&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript&theme=dark"></td>
 </tr>
   <tr>
 	<td><strong>FrontEnd Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,typescript" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
