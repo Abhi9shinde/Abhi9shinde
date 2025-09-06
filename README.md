@@ -40,7 +40,7 @@
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frameworks or Libraries</strong></td>
@@ -49,7 +49,7 @@
 
 <tr>
 	<td><strong>Developer Tools and Platforms</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,anaconda,appwrite,eclipse,heroku,netlify,npm,postman,firebase,gcp&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,docker,anaconda,appwrite,eclipse,heroku,netlify,npm,postman,firebase,gcp&theme=dark"></td>
 </tr>
 
 </table>
