@@ -36,7 +36,7 @@
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,php&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
