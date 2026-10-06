@@ -39,21 +39,16 @@
 </tr>
   <tr>
 	<td><strong>FrontEnd Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,next,tailwind,typescript,angular" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=react,next,angular,tailwind,redux,zustand" ></td>
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,php,prisma&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Database Technologies</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark"></td>
 </tr>
-<tr>
-	<td><strong>Frameworks or Libraries</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind,react,redux&theme=dark"></td>
-</tr>
-
 <tr>
 	<td><strong>Developer Tools and Platforms</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,docker,anaconda,appwrite,eclipse,heroku,netlify,npm,postman,firebase,gcp&theme=dark"></td>
